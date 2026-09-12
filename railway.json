@@ -1,7 +1,7 @@
 {
   "name": "June-X Ultra",
   "description": "Professional WhatsApp Bot with auto-session authentication",
-  "repository": "https://github.com/Vinpink2/June-Ultra",
+  "repository": "",
   "build": {
     "builder": "DOCKERFILE",
     "buildCommand": "npm install"
