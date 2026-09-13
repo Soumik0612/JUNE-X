@@ -26,7 +26,7 @@
   "env": {
     "SESSION_ID": {
       "description": "JuneX Ultra v3 session token (june-ultra:~...) \u2014 get yours on the pairing page",
-      "required": false,
+      "required": true,
       "value": ""
     },
     "REPO_URL": {
